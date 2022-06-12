@@ -11,13 +11,13 @@ Website Output Screenshots Below:
 
 Home Page with Todo App Functionality:
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home1.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home1.jpg)
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home2.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home2.jpg)
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home3.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home3.jpg)
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home4.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/To_do_App/Output_Screenshots/Home4.jpg)
 
 
 #2. Interactive Dashboard with Reactjs
@@ -30,20 +30,20 @@ Website Output Screenshots Below:
 
 Home Page:
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Home.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Home.jpg)
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Home2.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Home2.jpg)
 
 User Page:
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/User.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/User.jpg)
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/User_view.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/User_view.jpg)
 
 Adding New User:
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Add_new.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Add_new.jpg)
 
 Dark Theme:
 
-https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Dark_theme.jpg
+![image](https://github.com/prajwalpraveen97/Web_Development_Portfolio/blob/main/Interactive_Dashboard/Output_Screenshots/Dark_theme.jpg)
